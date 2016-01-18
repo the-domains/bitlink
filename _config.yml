@@ -1,0 +1,28 @@
+name: Bitlink
+favicon: null
+layout_spectrum: 0.2906673930119723
+typography_spectrum: 0.4563134512864053
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.029527307488024235
+  lightness: 0.6513894817326218
+  saturation: 0.71967365546152
+  rhythmicContrast: 0.6297922811936587
+purpose: []
